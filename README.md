@@ -10,19 +10,18 @@ A widget for play with jelly animation in your app.
 
 To use this package, add `jelly` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
-     ```yaml
-         dependencies:
-           ...
-           jelly: ^1.0.0
-     ```
+    dependencies:
+      ...
+      jelly: ^1.0.0
+     
 
 Now in your Dart code, you can use:
 
-import 'package:jelly/jelly.dart';
+     import 'package:jelly/jelly.dart';
 
 ## Usage
 
-Jelly(jellyCount, size: Size(400, 400), duration: Duration(milliseconds: 200))
+     Jelly(jellyCount, size: Size(400, 400), duration: Duration(milliseconds: 200))
 
 # LICENSE!
 
