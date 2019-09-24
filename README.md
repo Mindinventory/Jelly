@@ -1,5 +1,5 @@
 # Jelly
-
+![N|Solid](Sample.gif)
 A widget for play with jelly animation in your app.
 
 ## Key Features
