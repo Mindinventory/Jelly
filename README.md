@@ -26,7 +26,7 @@ Now in your Dart code, you can use:
 
 # LICENSE!
 
-Map interaction prototype is [MIT-licensed](/LICENSE).
+Jelly is [MIT-licensed](/LICENSE).
 
 
 # Let us know!
