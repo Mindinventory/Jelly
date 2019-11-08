@@ -1,7 +1,7 @@
 # Jelly
 <li>A widget to play with jelly animation in your app.</li>
 
-<br>![N|Solid](Sample.gif)</br>
+<br>![N|Solid](jelly_sample.gif)</br>
 
 ## Key Features
 
