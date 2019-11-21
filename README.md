@@ -1,6 +1,6 @@
 # Jelly
 
-<li>A widget to render moving blobby objects.</li>
+A widget to render moving blobby objects.
 
 
 <br>![N|Solid](jelly_sample.gif)</br>
