@@ -1,11 +1,17 @@
 # Jelly
-<li>A widget to play with jelly animation in your app.</li>
+
+<li>A widget to render moving blobby objects.</li>
+
+Implemented [this](https://dribbble.com/shots/7062770-Login-Flow) using Jelly
 
 <br>![N|Solid](jelly_sample.gif)</br>
 
 ## Key Features
 
-* Increase and decrease the jelly's number through jelly count.
+* Highly customizable Jelly rendering for Flutter.
+* Multiple Jelly instances
+* Overlap Jellys
+* Tween shapes and change colors
 
 ## Getting Started
 
